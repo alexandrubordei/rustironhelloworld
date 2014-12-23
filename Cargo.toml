@@ -8,11 +8,12 @@ authors = [ "Alex Bordei" ]
 
 name = "hello_world"
 
+[dependencies.hyper]
+
+git = "https://github.com/alexandrubordei/hyper.git"
 
 [dependencies.iron]
 
 git = "https://github.com/iron/iron.git"
 
-[dependencies.hyper]
 
-git = "https://github.com/alexandrubordei/hyper.git"
