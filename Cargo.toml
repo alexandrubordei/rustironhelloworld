@@ -1,0 +1,14 @@
+[package]
+
+name = "hello_world"
+version = "0.0.1"
+authors = [ "Alex Bordei" ]
+
+[[bin]]
+
+name = "hello_world"
+
+
+[dependencies.iron]
+
+git = "https://github.com/iron/iron.git"
